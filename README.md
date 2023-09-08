@@ -7,24 +7,25 @@ I'm senior student of SKKU, I'm interested in Machine Learning.
 
 ### 💻 Stacks 💻
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/skle-#F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=FFFFFF"/>
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/>
 
 ### ⚒️ Tools ⚒️
 
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
 ### 📌 Overview 📌
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh4770-k&layout=compact&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=chaeyh4&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ljh47704&show_icons=true">
 
 </div>

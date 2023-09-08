@@ -26,6 +26,7 @@ I'm senior student of SKKU, I'm interested in Machine Learning.
 ### 📌 Overview 📌
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh4770&layout=compact&theme=tokyonight)
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ljh4770&show_icons=true">
 
 </div>

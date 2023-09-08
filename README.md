@@ -4,6 +4,7 @@
 ### Hi, I'm JungHwan Lee
 I'm senior student of SKKU, I'm interested in Machine Learning.
 <br>
+I'm majoring in Statistics and ComputerScience.
 
 ### 💻 Stacks 💻
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />

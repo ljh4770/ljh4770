@@ -8,7 +8,7 @@ I'm senior student of SKKU, I'm interested in Machine Learning.
 ### 💻 Stacks 💻
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/NodeJS-F7DF1E?style=flat&logo=Node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=FFFFFF"/>
 
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />

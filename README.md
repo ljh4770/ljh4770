@@ -12,8 +12,8 @@ I'm majoring in Statistics and ComputerScience.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=FFFFFF"/>
 <br>

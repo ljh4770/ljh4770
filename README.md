@@ -32,3 +32,12 @@ I'm majoring in Statistics and ComputerScience.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh4770&layout=compact&theme=tokyonight)
 ![Solve.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh4770)
 </div>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ljh4770&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/ljh4770"
+    width="600"
+    height="300"
+  />
+  </a>
+</div>

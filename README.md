@@ -31,7 +31,6 @@ I'm majoring in Statistics and ComputerScience.
 
 ### 📌 Overview 📌
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh4770&layout=compact&theme=tokyonight)
 ![Solve.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh4770)
 </div>
 <div align="center">
